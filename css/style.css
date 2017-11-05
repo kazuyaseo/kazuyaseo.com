@@ -1,0 +1,73 @@
+      body {
+        padding-top: 20px;
+        padding-bottom: 40px;
+        font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+      }
+
+      .container-narrow {
+        margin: 0 auto;
+        max-width: 700px;
+      }
+
+      .jumbotron {
+        margin: 40px 0;
+        text-align: center;
+      }
+
+      .jumbotron h1 {
+        font-size: 62px;
+        line-height: 1;
+        color: #555;
+      }
+
+      .projects {
+        margin: 74px 0 0 0;
+      }
+
+      .projects.jobs {
+        margin-top: 32px !important;
+      }
+
+      .projects .box {
+        background-color: #f8f8f8;
+        border-radius: 6px;
+        padding: 12px;
+        margin-bottom: 16px;
+      }
+
+      .projects .big-icon {
+        text-align: center;
+        padding-bottom: 8px;
+        color: #555;
+      }
+
+      .projects .big-icon i {
+        color: #888;
+        display: block;
+      }
+
+      .projects .big-icon a {
+        color: #555;
+        text-decoration: none;
+      }
+
+      .projects .big-icon .img-icon {
+        display: block;
+        margin: 0 auto;
+        width: 64px;
+        height: 64px;
+      }
+
+      .projects .big-icon .img-icon-400x128 {
+        display: block;
+        margin: 0 auto;
+        width: 200px;
+        height: 64px;
+      }
+
+      .projects .big-icon .user-icon {
+        display: block;
+        border-radius: 32px;
+        margin: 0 auto;
+      }
+ 
